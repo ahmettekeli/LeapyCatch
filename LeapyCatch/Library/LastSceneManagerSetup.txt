@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Leapy Catch Scene/LeapKeyTapHardMode.unity
+  isLoaded: 1
+  isActive: 1
